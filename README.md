@@ -1,12 +1,12 @@
 # Zeus
 
-⚡ Zeus allows you to create HTML elements and set their attributes in a different manner - all at once! 🦅
+⚡ Zeus allows you to create HTML elements and set their attributes in a different manner &ndash; all at once! 🦅
 
 <br>
 
 ## Usage
 
-First, get `⚡ zeus 🦅` by doing any of the following:
+First, get `⚡ Zeus 🦅` by doing any of the following:
 
 - download the source code from [zeus.js](https://raw.githubusercontent.com/igorskyflyer/js-zeus/main/src/zeus.js),
 - download the minified source code from [zeus.min.js](https://raw.githubusercontent.com/igorskyflyer/js-zeus/main/dist/zeus.min.js),
