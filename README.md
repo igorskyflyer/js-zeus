@@ -1,6 +1,6 @@
 # Zeus
 
-⚡ Zeus allows you to create HTML elements and set their attributes in a different manner &ndash; all at once! 🦅
+⚡ Zeus allows you to create HTML elements and set their attributes in a completely different manner &ndash; all at once! 🦅
 
 <br>
 
