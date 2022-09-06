@@ -27,7 +27,7 @@ Next, import it to your project, e.g.
 Then, just call `zeus()` when you need to easily create your cool HTML elements, that's it! 🦸‍♂️
 
 ```js
-// the redundant use of both the className and id is for illustration purposes
+// the redundant use of both the className and id is for illustration purposes only
 
 // so, instead of using
 // ❌
