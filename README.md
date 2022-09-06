@@ -6,7 +6,15 @@
 
 ## Usage
 
-Download the source code of the library from [zeus.js](https://raw.githubusercontent.com/igorskyflyer/js-zeus/main/src/zeus.js) or the minified version from [zeus.min.js](https://raw.githubusercontent.com/igorskyflyer/js-zeus/main/dist/zeus.min.js) and import it to your project, e.g.
+First, get `⚡ zeus 🦅` by doing any of the following:
+
+- download the source code from [zeus.js](https://raw.githubusercontent.com/igorskyflyer/js-zeus/main/src/zeus.js),
+- download the minified source code from [zeus.min.js](https://raw.githubusercontent.com/igorskyflyer/js-zeus/main/dist/zeus.min.js),
+- download the release package from [zeus](https://github.com/igorskyflyer/js-zeus/releases/tag/v1.0.0) which contains both the original and minified source code &ndash; use only one of two `.js` files.
+
+<br>
+
+Next, import it to your project, e.g.
 
 ```html
 <script src="script/zeus.js"></script>
