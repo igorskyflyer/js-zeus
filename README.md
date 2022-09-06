@@ -19,6 +19,24 @@ Download the source code of the library from [zeus.js](https://raw.githubusercon
 Then, just call `zeus()` when you need to easily create your cool HTML elements, that's it! 🦸‍♂️
 
 ```js
+// the redundant use of both the className and id is for illustration purposes
+
+// so, instead of using
+// ❌
+const span = document.createElement('span')
+span.id = 'my-new-span'
+span.className = 'test'
+span.innerHTML = 'Hello world'
+
+// or even worse, with setAttribute() 😱
+// ❌
+const span = document.createElement('span')
+span.setAttribute('id', 'my-new-span')
+span.setAttribute('class', 'test')
+span.innerHTML = 'Hello world'
+
+// use this instead
+// ✅
 const span = zeus('span', {
   id: 'my-new-span',
   className: 'test',
