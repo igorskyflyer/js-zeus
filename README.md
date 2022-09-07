@@ -14,7 +14,7 @@ First, get `⚡ Zeus 🦅` by doing any of the following:
 
 <br>
 
-Next, import it to your project, e.g.
+Next, import it into your project, e.g.
 
 ```html
 <script src="script/zeus.js"></script>
